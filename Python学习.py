@@ -1,2 +1,3 @@
-# Python学习
----
+import sys
+
+print("hello world")
